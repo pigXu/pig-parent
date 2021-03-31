@@ -16,7 +16,7 @@
         <java.version>1.8</java.version>
         <springboot.version>2.1.7.RELEASE</springboot.version>
 
-        <guava.version>28.1-jre</guava.version>
+        <guava.version>29.0-jre</guava.version>
         <apache.io.version>2.6</apache.io.version>
         <ok.http.version>4.1.0</ok.http.version>
 
