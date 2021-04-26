@@ -17,7 +17,7 @@
         <springboot.version>2.1.7.RELEASE</springboot.version>
 
         <guava.version>28.1-jre</guava.version>
-        <apache.io.version>2.6</apache.io.version>
+        <apache.io.version>2.7</apache.io.version>
         <ok.http.version>4.1.0</ok.http.version>
 
         <springboot.mybatis>2.1.0</springboot.mybatis>
